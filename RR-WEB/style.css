@@ -1,4 +1,5 @@
 body {
+    background-color: #fff;
     font-size: 16px;
     line-height: 0;
 }
@@ -60,6 +61,18 @@ header li a{
     text-align: center;
     font-size: 19px;
     border-radius: 2px;
+}
+.container-2 {
+    margin: 0;
+    padding: 32px 24px;
+    line-height: 20px;
+}
+.img-left img {
+    width: 55%;
+}
+.img-right {
+    display:flex;
+    
 }
 .bold {
     font-weight: bold;
